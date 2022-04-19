@@ -1,0 +1,6 @@
+url: "http://coastalforestmerlinproject.org" 
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "CFMP" 
+description: "Education and Research"
+remote_theme: just-the-docs/just-the-docs
+
