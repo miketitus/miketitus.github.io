@@ -15,8 +15,7 @@ Though the Merlin Falcon is native to western Washington, British Columbia, and 
 Since 1983 the Coastal Forest Merlin Project has worked to combine its findings into several scientific papers and a national book. This research could not be accomplished without the help of Volunteers and Interns who assist in the research program and Citizen Scientists who report Merlin sightings in the Pacific Northwest and beyond!
 
 <div class="poem">
-<img src="/assets/images/merlin2.jpg" alt="Merlin Falcon on a tree branch" description="Merlin Falcon on a tree branch"/><br/>
-
+![Merlin Falcon on a tree branch](/assets/merlin2.jpg)
 Perched high above<br/>
 This forest<br/>
 Does Merlin ponder<br/>
